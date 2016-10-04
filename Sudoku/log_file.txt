@@ -1,0 +1,100 @@
+ROUND #0
+Row 0 is not yet complete
+Square[0][1] has been set to 5 because this is the only value it can be
+Square[0][8] has been set to 1 because only one in set with given value
+Col 0 is not yet complete
+Square[1][0] has been set to 3 because this is the only value it can be
+Square[5][0] has been set to 1 because only one in set with given value
+Grid 0 is not yet complete
+Square[2][1] has been set to 2 because only one in set with given value
+This set is complete
+Row 1 is not yet complete
+Square[1][6] has been set to 8 because only one in set with given value
+Square[1][4] has been set to 9 because only one in set with given value
+Col 1 is not yet complete
+Square[4][1] has been set to 7 because only one in set with given value
+Grid 1 is not yet complete
+Square[1][5] has been set to 7 because this is the only value it can be
+Square[0][5] has been set to 3 because this is the only value it can be
+Row 2 is not yet complete
+Square[2][6] has been set to 3 because this is the only value it can be
+Col 2 is not yet complete
+Grid 2 is not yet complete
+Square[0][6] has been set to 7 because only one in set with given value
+This set is complete
+Row 3 is not yet complete
+Square[3][1] has been set to 8 because this is the only value it can be
+Square[3][4] has been set to 6 because only one in set with given value
+Col 3 is not yet complete
+Grid 3 is not yet complete
+Row 4 is not yet complete
+Square[4][7] has been set to 1 because only one in set with given value
+Col 4 is not yet complete
+Grid 4 is not yet complete
+Row 5 is not yet complete
+Col 5 is not yet complete
+Square[2][5] has been set to 5 because only one in set with given value
+Grid 5 is not yet complete
+Square[5][8] has been set to 3 because this is the only value it can be
+Square[3][8] has been set to 9 because this is the only value it can be
+Row 6 is not yet complete
+Square[6][7] has been set to 3 because this is the only value it can be
+Square[6][3] has been set to 2 because this is the only value it can be
+Square[6][4] has been set to 5 because this is the only value it can be
+Square[6][2] has been set to 1 because this is the only value it can be
+This set is complete
+Col 6 is not yet complete
+Square[8][6] has been set to 5 because only one in set with given value
+Grid 6 is not yet complete
+Row 7 is not yet complete
+Col 7 is not yet complete
+Square[8][7] has been set to 6 because this is the only value it can be
+Square[5][7] has been set to 8 because this is the only value it can be
+This set is complete
+Grid 7 is not yet complete
+Row 8 is not yet complete
+Square[8][3] has been set to 4 because only one in set with given value
+Col 8 is not yet complete
+Square[7][8] has been set to 4 because only one in set with given value
+This set is complete
+ROUND #1
+Col 0 is not yet complete
+Square[8][0] has been set to 2 because this is the only value it can be
+Square[3][0] has been set to 5 because this is the only value it can be
+This set is complete
+Grid 1 is not yet complete
+Square[2][4] has been set to 4 because only one in set with given value
+This set is complete
+Col 2 is not yet complete
+Row 3 is not yet complete
+Col 3 is not yet complete
+Square[7][3] has been set to 7 because only one in set with given value
+Square[4][3] has been set to 9 because only one in set with given value
+Grid 3 is not yet complete
+Row 4 is not yet complete
+Square[4][6] has been set to 2 because this is the only value it can be
+Square[4][2] has been set to 3 because this is the only value it can be
+Square[4][5] has been set to 4 because this is the only value it can be
+Square[4][4] has been set to 8 because this is the only value it can be
+This set is complete
+Col 4 is not yet complete
+Grid 4 is not yet complete
+Square[3][3] has been set to 3 because this is the only value it can be
+Square[5][4] has been set to 7 because this is the only value it can be
+Square[5][5] has been set to 2 because this is the only value it can be
+This set is complete
+Row 5 is not yet complete
+Square[5][6] has been set to 6 because only one in set with given value
+This set is complete
+Grid 6 is not yet complete
+Square[7][2] has been set to 5 because only one in set with given value
+Row 7 is not yet complete
+Square[7][4] has been set to 3 because only one in set with given value
+This set is complete
+Row 8 is not yet complete
+Square[8][2] has been set to 7 because this is the only value it can be
+This set is complete
+ROUND #2
+Col 2 is not yet complete
+Square[3][2] has been set to 2 because only one in set with given value
+This set is complete
